@@ -8,7 +8,7 @@ module.exports = function () {
 
     // 搜索框添加 keyup 时间，实时刷新搜索数据
     $searchInput.on("keyup", function () {
-        var $this = $(this);
+        var $this = $(this),
             keyword = $this.val();
         $.ajax({
             type: "get",
