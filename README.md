@@ -2,7 +2,7 @@
 
 ## Demo
 
-![在线演示](http://imfangli.github.io/baidu-music-downloader/)
+[在线演示](http://imfangli.github.io/baidu-music-downloader/)
 
 ## 介绍
 
@@ -13,4 +13,4 @@
 ## TODO
 
 ~~本程序在本地直接用浏览器打开 index.html 运行良好，但是放到服务器上下载有问题，初步判断是百度监测 Referer 而做了权限的限制，空了找下解决方法。~~
-![参考](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/meta)
+[参考](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/meta)
